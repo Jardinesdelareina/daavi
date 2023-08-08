@@ -1,0 +1,8 @@
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc
+*.pyc
+report.png
+venv
+.env
